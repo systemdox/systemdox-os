@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 200">
+  <defs>
+    <style>
+      .text { fill: #4a90e2; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold; }
+      .hexagon { fill: #4a90e2; stroke: black; stroke-width: 2; }
+      .doc-lines { stroke: #4a90e2; stroke-width: 2; }
+    </style>
+  </defs>
+
+  <!-- SDox Text (adjusted position) -->
+  <text x="20" y="140" class="text" font-size="140">SDoX</text>
+
+  <!-- First Hexagon (with slightly smaller, wide document icon) -->
+  <path class="hexagon" d="M440 80 L470 100 L470 140 L440 160 L410 140 L410 100 Z" />
+  <path fill="white" d="M422 97 L458 97 L458 143 L422 143 Z" />
+  <path fill="white" d="M458 97 L458 107 L448 97 Z" />
+  <line x1="427" y1="112" x2="453" y2="112" class="doc-lines" />
+  <line x1="427" y1="122" x2="453" y2="122" class="doc-lines" />
+  <line x1="427" y1="132" x2="453" y2="132" class="doc-lines" />
+
+  <!-- Second Hexagon (with slightly smaller, wide document icon) -->
+  <path class="hexagon" d="M500 80 L530 100 L530 140 L500 160 L470 140 L470 100 Z" />
+  <path fill="white" d="M482 97 L518 97 L518 143 L482 143 Z" />
+  <path fill="white" d="M518 97 L518 107 L508 97 Z" />
+  <line x1="487" y1="112" x2="513" y2="112" class="doc-lines" />
+  <line x1="487" y1="122" x2="513" y2="122" class="doc-lines" />
+  <line x1="487" y1="132" x2="513" y2="132" class="doc-lines" />
+
+  <!-- Third Hexagon (Stacked on top, with slightly smaller, wide document icon) -->
+  <path class="hexagon" d="M470 20 L500 40 L500 80 L470 100 L440 80 L440 40 Z" />
+  <path fill="white" d="M452 37 L488 37 L488 83 L452 83 Z" />
+  <path fill="white" d="M488 37 L488 47 L478 37 Z" />
+  <line x1="457" y1="52" x2="483" y2="52" class="doc-lines" />
+  <line x1="457" y1="62" x2="483" y2="62" class="doc-lines" />
+  <line x1="457" y1="72" x2="483" y2="72" class="doc-lines" />
+</svg>

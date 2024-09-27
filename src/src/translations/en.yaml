@@ -1,0 +1,13 @@
+#  https://claude.ai/chat/5db03d84-e32f-4cb0-95eb-725e59472468
+home:
+  title: SystemDox
+  description: >
+    System Dox OS runs in your corporate network and is hosted by Git Pages. 
+    System Dox EE is a SaaS hosted in AWS and secured using your existing AWS Organization security posture.
+community:
+  title: Open Source Version
+  description: >
+    Use SystemDox for free. You can decide to deploy a limited version of SystemDox leveraging Git Pages. 
+    SystemDox will discover other linked repository and create a common look and feel. In this version CodeDox, AskDox, PrintDox, ShareDox capability are not available.
+    
+
